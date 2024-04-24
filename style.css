@@ -1,0 +1,44 @@
+
+.topnav{
+   background-color:#E8B9AB;
+   overflow: hidden;
+}
+.topnav a {
+   float: left;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+.topnav a:hover {
+   background-color: #CBD5C0;
+   color: #758467;
+}
+#yakgwaPhoto {
+   background: url("yakgwa.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 270px;
+   padding: 60px 0px;
+}
+#koreaPhoto {
+   background: url("koreanDessertPhoto.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 270px;
+   padding: 60px 0px;
+}
+#bingsuPhoto {
+   background: url("bingsuPhoto.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 270px;
+   padding: 60px 0px;
+}
+h1 {
+   color: white;
+   text-align: center;
+   font-family: "Times New Roman", serif;
+   font-size: 60px;
+}
