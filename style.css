@@ -5,7 +5,7 @@
 }
 .topnav a {
    float: left;
-   color: #f2f2f2;
+   color: white;
    text-align: center;
    padding: 14px 16px;
    text-decoration: none;
@@ -19,22 +19,97 @@
    background: url("yakgwa.jpg");
    background-repeat: no-repeat;
    background-size: cover;
-   height: 270px;
+   height: 400px;
    padding: 60px 0px;
 }
 #koreaPhoto {
    background: url("koreanDessertPhoto.jpg");
    background-repeat: no-repeat;
    background-size: cover;
-   height: 270px;
+   height: 400px;
    padding: 60px 0px;
 }
 #bingsuPhoto {
    background: url("bingsuPhoto.png");
    background-repeat: no-repeat;
    background-size: cover;
-   height: 270px;
+   height: 400px;
    padding: 60px 0px;
+}
+#dalgonaPhoto {
+   background: url("dalgona.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 400px;
+   padding: 60px 0px;
+}
+#japanPhoto {
+   background: url("japaneseDesserts.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 400px;
+   padding: 60px 0px;
+}
+#chinesePhoto {
+   background: url("chinaDesserts.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 400px;
+   padding: 60px 0px;
+}
+#dorayakiPhoto {
+   background: url("dorayaki.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 400px;
+   padding: 60px 0px;
+}
+#dangoPhoto {
+   background: url("dango.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 400px;
+   padding: 60px 0px;
+}
+#purinPhoto {
+   background: url("purin.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 400px;
+   padding: 60px 0px;
+
+}
+#tanghuluPhoto {
+   background: url("tanghulu.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 400px;
+   padding: 60px 0px;
+   
+}
+#mungBeanPhoto {
+   background: url("mungBean.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 400px;
+   padding: 60px 0px;
+   
+}
+#eggTartPhoto {
+   background: url("eggTart.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 400px;
+   padding: 60px 0px;
+   
+}
+#homePhoto {
+   background: url("homePageDessert.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 400px;
+   padding: 60px 0px;
+   
 }
 h1 {
    color: white;
@@ -42,3 +117,25 @@ h1 {
    font-family: "Times New Roman", serif;
    font-size: 60px;
 }
+
+body{
+   background-color: #f3dcd5;
+}
+p{
+   color: white;
+   text-align: center;
+   font-family: "Times New Roman", serif;
+}
+h2{
+   color: white;
+   text-align: center;
+   font-family: "Times New Roman", serif;
+}
+a {
+   text-decoration: none;
+}
+a:visited {
+   color: #FFFFFF;
+}
+a:hover {
+  color: #E8B9AB;
